@@ -11,13 +11,3 @@ default:
   print (wholeNumber )
   print ("Prime")
 
-
-
-
-
-
-
-
-
-  
-}
